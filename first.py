@@ -1,5 +1,6 @@
 def my_superfunction():
     print('Hello Valera!!')
+    print("1234")
 
 
 def main():
